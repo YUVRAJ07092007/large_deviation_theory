@@ -1,0 +1,24 @@
+Large Deviation theory
+Recorded: 30 October 2026
+
+This folder is not a filed patent application. It is not in the filed-patents list.
+
+Large Deviation theory\
+    anti virus\
+        Application of Large Deviation Theory and Rare-Event Analysis in Antivirus Companies.docx
+            11,593 bytes. 30 October 2026, 8:05 AM.
+            A concept note. It applies large deviation theory and rare-event analysis to antivirus work: unusual computer behaviour, exit probability, most probable escape path, and a proportionate response (monitor, restrict, quarantine, or isolate). It compares this with a UAV disturbance problem. The suggested research title in the note is "Rare-Event-Aware Cyberattack Detection and Probabilistic Security Control Using Large Deviation Theory". The note says the bibliography does not establish commercial effectiveness.
+        Literaure_Survey\
+            US8839435.pdf
+                1,515,304 bytes. 16 pages. 30 October 2026, 8:12 AM.
+                Literature file. The folder name is spelled Literaure_Survey on disk.
+            30102026_Literature_Survey_and_Gap.docx
+                Added 30 October 2026. Preliminary list of published titles and the literature gap for a possible patent based on the concept note.
+            30102026_Patent_Office_Search.docx
+                Added 30 October 2026. Public-index search of Indian, USPTO, EPO, and WIPO collections. Not an official search report.
+            30102026_PRISMA_Review.docx
+                Added 30 October 2026. PRISMA 2020 mapping of the captured records. One reviewer. Not a register of every office document.
+            30102026_PRISMA_Flow.png
+                Flow diagram for that mapping.
+
+Each of these folders also contains a Windows desktop.ini file. Those are folder settings, not project files.
